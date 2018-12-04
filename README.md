@@ -1,0 +1,2 @@
+# dotvim
+Personal Vim configuration
